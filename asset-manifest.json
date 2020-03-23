@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/rns-addr-sample-app/static/js/main.ee134b84.chunk.js",
+    "main.js.map": "/rns-addr-sample-app/static/js/main.ee134b84.chunk.js.map",
+    "runtime-main.js": "/rns-addr-sample-app/static/js/runtime-main.03201730.js",
+    "runtime-main.js.map": "/rns-addr-sample-app/static/js/runtime-main.03201730.js.map",
+    "static/js/2.2b78fe92.chunk.js": "/rns-addr-sample-app/static/js/2.2b78fe92.chunk.js",
+    "static/js/2.2b78fe92.chunk.js.map": "/rns-addr-sample-app/static/js/2.2b78fe92.chunk.js.map",
+    "index.html": "/rns-addr-sample-app/index.html",
+    "precache-manifest.abbb7162333f715a201284b7cae63a76.js": "/rns-addr-sample-app/precache-manifest.abbb7162333f715a201284b7cae63a76.js",
+    "service-worker.js": "/rns-addr-sample-app/service-worker.js",
+    "static/js/2.2b78fe92.chunk.js.LICENSE.txt": "/rns-addr-sample-app/static/js/2.2b78fe92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03201730.js",
+    "static/js/2.2b78fe92.chunk.js",
+    "static/js/main.ee134b84.chunk.js"
+  ]
+}
