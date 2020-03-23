@@ -1,3 +1,9 @@
+# RNS Address lookup sample app
+
+Read the article: https://developers.rsk.co/rif/rns/integrate-addr-resolution
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
