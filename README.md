@@ -1,8 +1,19 @@
-# RNS Address lookup sample app
+<p align="middle">
+    <img src="https://www.rifos.org/assets/img/logo.svg" alt="logo" height="100" >
+</p>
+<h3 align="middle"><code>rns-addr-sample-app</code></h3>
+<p align="middle">
+    React.js sample app for address lookups.
+</p>
 
-Read the article: https://developers.rsk.co/rif/rns/integrate-addr-resolution
+```
+git clone https://github.com/rnsdomains/rns-addr-sample-app
+cd rns-addr-sample-app
+yarn
+yarn start
+```
 
----
+For more details about the address lookup implementation read this article: https://developers.rsk.co/rif/rns/integrate-addr-resolution
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -10,7 +10,7 @@ export default class extends Component {
       domain: '',
       getting: false,
       addr: null,
-    error: null,
+      error: null,
     };
 
     this.handleDomainChange = this.handleDomainChange.bind(this);
