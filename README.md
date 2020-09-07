@@ -3,8 +3,11 @@
 </p>
 <h3 align="middle"><code>rns-addr-sample-app</code></h3>
 <p align="middle">
-    React.js sample app for address lookups.
+    React.js sample app for RNS RSK address record lookups.<br />
+    <a href="https://rnsdomains.github.io/rns-addr-sample-app/" target="_blank">rnsdomains.github.io/rns-addr-sample-app</a>
 </p>
+
+## Run
 
 ```
 git clone https://github.com/rnsdomains/rns-addr-sample-app
@@ -14,6 +17,8 @@ yarn start
 ```
 
 For more details about the address lookup implementation read this article: https://developers.rsk.co/rif/rns/integrate-addr-resolution
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
