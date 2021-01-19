@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "homepage": "http://rnsdomains.github.io/rns-addr-sample-app",
   "private": true,
+  "license": "MIT",
   "dependencies": {
     "@rsksmart/rns": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
